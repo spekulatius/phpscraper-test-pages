@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Peter Thaleiks - Developer and Indie Maker</title>
+  <subtitle>I am writing about my experiences as a developer and indie hacker.</subtitle>
+  <link href="https://peterthaleikis.com/feed.xml" rel="self"/>
+  <link href="https://peterthaleikis.com/"/>
+  <updated>2022-07-23T00:00:00Z</updated>
+  <id>https://peterthaleikis.com/</id>
+  <author>
+    <name>Peter Thaleikis</name>
+    <email></email>
+  </author>
+
+  <entry>
+    <title>Startup Name Check: Experiences of the First week</title>
+    <link href="https://peterthaleikis.com/posts/startup-name-check:-experiences-of-the-first-week/"/>
+    <updated>2018-04-30T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/startup-name-check:-experiences-of-the-first-week/</id>
+    <content type="html">&lt;p&gt;Being a developer by heart makes any kind of marketing and promotion a foreign ground. It cost me some time to overcome the weird feeling coming with publishing and talking about my &lt;a href=&quot;https://startupnamecheck.com/&quot;&gt;little side project Startup Name Check&lt;/a&gt;  —  a tool to save time when you&#39;re researching a new name for your next startup, band, side project, hobby, etc.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://peterthaleikis.com/static/images/StartupNameCheck-experiences-of-the-first-week/startupnamecheck-on-launch-day-min.png&quot; alt=&quot;startupnamecheck.com on launch day&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;ProductHunt&lt;/h2&gt;
+&lt;p&gt;startup name check was ready for a few days before I managed to push myself over the line to post startup name check on ProductHunt. ProductHunt seemed like a great place to start off as it&#39;s very close to the tech scene and has a active community of indie makers. I spend a few hours reading about the recommended steps for a successful launch on ProductHunt. This included preparing screenshots, preparing a comment text and a few tweets to get started. I ended up replacing the screenshots a few times as they looked blurry on the ProductHunt page all the time. With a resolution of 678x407 it seems to be alright now. I was trying to get a screencast converted to a usable gif - no luck on this one.&lt;/p&gt;
+&lt;p&gt;The launch itself was around an hour after midnight SF time. I still decided to push on as I didn&#39;t want to wait any longer. At the beginning I thought &amp;quot;okay, not a lot happening at the moment. Let&#39;s get back to some other work.&amp;quot; I guess my expectation of an immediate response was simply incorrect. It kicked off with a bit a delay: Around 6 am SF time traffic increased from less than ten visitors per hour to between 80–100 visitors per hour - all from PH. People visited the startup name check and did a lot of searches. A lot of them were more tries than actual searches. At the same time startup name check got reviewed, commented on and upvoted on PH and ended up on the third place for the launch day:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://peterthaleikis.com/static/images/StartupNameCheck-experiences-of-the-first-week/producthunt-badge-for-startupnamecheck-min.png&quot; alt=&quot;ProductHunt Badge for startupnamecheck.com&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;startup name check badgeThe second morning (SF time) the traffic from ProductHunt spiked from the overnight low of around forty per hour to 252 in the hour 7–8 am just to fall off again afterwards. I&#39;ve got no idea about the reasons behind this. Maybe the project got featured/mentioned somewhere with PH? I&#39;m not sure. Noteworthy are two more things:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Incredible positive feedback from other indie makers and devs on Twitter and via email. From simple &amp;quot;awesome product, keep going&amp;quot; to detailed feedback with improvement ideas and bug reports everything was in there.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Another unexpected result: the affiliate link to Namecheap got me two sales over 99 NZD (20 NZD) commission.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After one week on ProductHunt my project got 503 upvotes, yay! The traffic flattened out as expected. Now there are usually 5–10 visitors per hours from ProductHunt.&lt;/p&gt;
+&lt;h2&gt;HackerNews&lt;/h2&gt;
+&lt;p&gt;After the initial success with ProductHunt I decided to follow up with more submissions. HackerNews seemed the logical next step. I signed up and wanted to publish my &amp;quot;Show HN&amp;quot; post. But HN said not soooo fast: &amp;quot;Sorry, your account is too new to submit this site.&amp;quot; I got this fixed by emailing the admins and posted with a day delay. I followed the same approach as with ProductHunt in posting this on Twitter inviting people to check it out. The result was very different tho: Almost no traction on this, in total 11 points (upvotes) and no noticeable increase of traffic. I&#39;m not sure if I judged the fit of my project for HN wrong or me being new to HN might have been the problem.&lt;/p&gt;
+&lt;h2&gt;Reddit&lt;/h2&gt;
+&lt;p&gt;Reddit was the next platform I guessed could be good fit. I settled on the idea of posting my project to these subreddits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;r/alphaandbetausers  — &lt;a href=&quot;https://redd.it/8fadjl&quot;&gt; https://redd.it/8fadjl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;r/IMadeThis  — &lt;a href=&quot;https://redd.it/8faowg&quot;&gt; https://redd.it/8faowg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;r/SideProject  — &lt;a href=&quot;https://redd.it/8falo4&quot;&gt; https://redd.it/8falo4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of the posts got much attention. The post in r/SideProject got the most attention with 4 upvotes haha. I guess posting the links on Twitter alone doesn&#39;t do the trick. On Reddit my account isn&#39;t new, but I&#39;m seldom active.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Btw, a lot of my experiences &lt;a href=&quot;https://wheretopost.email/kb/submit/launching-on-producthunt.html&quot;&gt;launching on ProductHunt&lt;/a&gt; and &lt;a href=&quot;https://wheretopost.email/kb/submit/marketing-on-reddit.html&quot;&gt;Reddit&lt;/a&gt; went into the Where To Post articles for these sites (linked before).&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Marketing is still (and probably will be for longer) a foreign land for me. Yet I&#39;m learning. That&#39;s key. I made great connections on Twitter with other indie makers and founders. That alone is gold. I got amazing feedback that keeps me motivated for further iterations.&lt;/p&gt;
+&lt;p&gt;If you want to follow the journey of building and marketing my side project more feel free to &lt;a href=&quot;https://twitter.com/spekulatius1984&quot;&gt;follow me&lt;/a&gt; or my thread on twitter: &lt;a href=&quot;https://twitter.com/spekulatius1984/status/988342340711366657&quot;&gt;The &#39;making of&#39; startup name check&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks for spending 5 minutes reading my update :)&lt;/p&gt;
+</content>
+  </entry>
+
+  <entry>
+    <title>How I Rebuilt and Relaunched Startup Name Check</title>
+    <link href="https://peterthaleikis.com/posts/how-i-rebuilt-and-relaunched-startup-name-check/"/>
+    <updated>2018-08-01T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/how-i-rebuilt-and-relaunched-startup-name-check/</id>
+    <content type="html">&lt;p&gt;I&#39;d like to share my experiences and lessons from completely rebuilding, then &#39;fine tuning&#39; for too long (aka procrastinating), and finally relaunching my little pet &lt;a href=&quot;https://startupnamecheck.com/&quot;&gt;side project Startup Name Check&lt;/a&gt;. As you can imagine there were lots of frustrating moments and of course great people who helped along the way. But let&#39;s not jump ahead.&lt;/p&gt;
+&lt;p&gt;Just a heads-up — If you hoping for a &amp;quot;That&#39;s how I started something small on the side and it turned into this massive five-digits dollar per month business after just a few months&amp;quot;-article, please surf away. You won&#39;t find happiness here — this is just the regular grind and what I&#39;ve learned from it.&lt;/p&gt;
+&lt;h2&gt;Where I started off:&lt;/h2&gt;
+&lt;p&gt;Back in April this year, I started Startup Name Check for a number of different reasons. Like many other indie hackers I wanted to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;build something that is addressing your own problem or need (&amp;quot;scratch your own itch&amp;quot;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;build small and iterate on it. Build fast, fail fast and learn fast.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Other reasons aren&#39;t as common:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Even though I&#39;ve been a developer for a long time and contributed to open source projects, the idea of putting my work out there feels oddly strange and foreign. Seeing my project &#39;in the wild&#39; - with only my name to it - was a challenge in itself. Addressing this weird feeling was one goal of building Startup Name Check.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;With the weird feeling of putting it out there came the second weird feeling: talking about it 😁️ Simply the idea of talking about my own work was strange too. I always felt like I&#39;m &amp;quot;selling&amp;quot; something - a rather unpleasant feeling. With this second weird feeling the list of strange feelings is getting to an end. Seems like I’m addressing a few weird feelings with this side project 😁️&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Marketing: Another weird feeling 😛️ Just kidding, but it was and still is foreign ground to me. I like the nature of this challenge as it’s less &amp;quot;binary&amp;quot;. That is interesting in itself. Slowly though, I feel I get the hang of it. Not saying I&#39;m any good. I just suck a little less. This includes SEO, writing about my project and planning/discussing ideas and campaigns. Learning about how to market a project by myself was and still is one of my key goals of Startup Name Check.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Doing it &amp;quot;proper&amp;quot;: When you&#39;re working as an employee sooner or later you are bound to face the feeling that you would do something differently. In my previous working experiences this was often the case with the projects I&#39;ve been working on. Often I had the feeling I&#39;d like to &amp;quot;do it proper&amp;quot; and more future proof instead of &amp;quot;quick and dirty&amp;quot; as I&#39;ve asked to.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Money? Yeah, money is somewhere in the reasons too. Less for the money itself - more for the feeling of &amp;quot;Yay! I can do it, I actually built something people see a value in and are paying for - completely by myself.&amp;quot;. During the launch I made 20 NZD in commission via a partnership program - this was during the time Startup Name Check had only limited functionality and no sign up option.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The initial responses to Startup Name Check were great. I loved all the positive vibes and messages. So I decided to advance the project more.&lt;/p&gt;
+&lt;h2&gt;The Rebuild&lt;/h2&gt;
+&lt;p&gt;I looked into the suggestions I&#39;ve received on Product Hunt and via the contact form. Most of them were logical next steps. Everything made sense and followed the path you would think — more domain names and social media networks to check, more features and some more tweaks to enhance the user experience. I mostly agreed with of the suggestions. Next, I put a list of things I thought would make a great next version together. The idea of &amp;quot;Startup Name Check version 2&amp;quot; was born.&lt;/p&gt;
+&lt;p&gt;When I discussed the feature ideas with indie makers they were excited. No one understands the pain of searching for a great project name more than indie makers. It often ends in frustration because your desired names are blocked or used for similar projects. Every time you come up with a new idea for a name you head off to check the usual places — .com, .io, Facebook, Twitter etc. Each of them takes you at least a few minutes to check, if you consider variations of names. And unfortunately it’s always the last one search when you find out why the name won’t work out. When you add the time thinking of names or brainstorming with others it all sums up to hours and hours. Time that could be saved and invested into building your project instead. This is where I see Startup Name Check solve an actual need: It allows you to cut the time for searching and validating names from days or hours to minutes. Version 2 of Startup Name Check should make a difference how you search and track your social media handles and domain names.&lt;/p&gt;
+&lt;p&gt;To make this happen, a lengthy list of features had to be added. I knew I had to implement a lot of frontend code. Frontend has never been my strong side. In the first version, the frontend was literally hacked together using jQuery and a free Bootstrap 4 theme. jQuery had to get replaced it with something more powerful and easier to maintain. VueJS was the logical choice as it was on my &amp;quot;to use somewhere&amp;quot; list and it gets shipped with Laravel by default &amp;lt;3 I decided to rewrite the current Startup Name Check &amp;quot;version 1&amp;quot; and see how hard it would be with my limited JavaScript knowledge. As usual when you learning something new, I expected an uphill battle. To my absolute surprise it was quicker to rebuild it in VueJS than I built it originally using jQuery 0_o I&#39;m aware of the fake perception in regards of speed — writing something for the second time is usually faster because you know the logic inside out and solved a lot of issues already. Nevertheless, it was very quick. In under one day I achieved the same functionality in VueJS. A dream! 😍️&lt;/p&gt;
+&lt;p&gt;With this great start I felt like the remaining features for v2 would be fairly easy to add. So I decided to not release the Vue version straight away — what more value would it really provide? I set my goal on implementing at least the core functionality I had planned for version 2. Looking back, I consider this a mistake. Mainly for two reasons: I could have gained more experience of running this type of application before jumping into the deep end with a more complex application. I also missed out on the opportunity to work on the project in public. When I started out in the indie hacker space I didn&#39;t think of this really. Now, as we watch the &amp;quot;WIP clone wars&amp;quot; unfold it&#39;s pretty clear that building in public is important. By the way, you can find me on Makerlog. Looking back I should have rolled it out — maybe simply without any public statement. I didn&#39;t think of this option back then.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As we watch the &amp;quot;WIP clone wars&amp;quot; unfold it&#39;s pretty clear that building in public is important.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As you can imagine, the development didn&#39;t continue as smoothly as my initial optimism let me believe. As you might expect, there is much more work involved making it check 50 (instead of 6) domains and social media networks. Some of the networks put up a real fight to expose the information. I also underestimated the time required to get the UI working to my desired level. I spent a lot of time trying to get Stripe to work with VueJs. I learned this was more a problem of my way interacting with Stripe than of VueJS or Stripe. Over time I got slower and slower as my energy dropped. As I grinded my way through the workload a serious family issue came up. I ended up traveling back to Europe for two months. A mix of being distracted and procrastination replaced my quick initial optimism. So much for a quick turn around and fast delivery!&lt;/p&gt;
+&lt;p&gt;Picking up work you&#39;ve began two months ago is hard. Instead of building up monthly recurring revenue, I only built up monthly recurring regrets. After a while, I got back into working regularly. Starting small and picking small tasks helped me to get back on track. During that time I&#39;ve been lucky to get the invaluable support from &lt;a href=&quot;https://twitter.com/yesnoornext&quot;&gt;Vincent (@yesnoornext)&lt;/a&gt; maker of &lt;a href=&quot;https://threader.app/&quot;&gt;threader.app&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/rhysbeingsocial&quot;&gt;Rhys (@rhysbeingsocial)&lt;/a&gt; the maker of &lt;a href=&quot;https://domainz.io/&quot;&gt;domainz.io&lt;/a&gt;. I know both of them from the time I started out in the indie hacker space. Even though they were busy with their own projects, both spent hours talking about my thoughts and doubts. A big thank you to both of them!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Instead of building up monthly recurring revenue I only build up monthly recurring regrets.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Relaunch&lt;/h2&gt;
+&lt;p&gt;The public launch of Startup Name Check version 2 was an exciting moment. On one hand, I was excited to see what would happen, if someone would sign up or even subscribe. On the other hand, I was worried: Would the site work for everyone? Did I forget anything? Did I make serious mistakes somewhere along the way?&lt;/p&gt;
+&lt;p&gt;My goal was to make the launch as smooth as possible. So I prepared a list of actions to do as part of the launch:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A list of &lt;a href=&quot;https://twitter.com/spekulatius1984/status/1031156419544854528&quot;&gt;Tweets with partial screenshots&lt;/a&gt; to show the new features and explain them a bit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Links to the Product Hunt comments suggesting new features which I&#39;ve had implemented in v2 along with replies for the comments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Personal messages to a few people who interacted me since the start of Startup Name Check v1. I intentionally didn&#39;t write everyone — that&#39;s not me. I just don&#39;t feel comfortable spamming everyone.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A log entry for Makerlog&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The original launch in April drove a lot of traffic from Product Hunt. This one platform got me around 10k visitors and 8k searches alone. &lt;a href=&quot;https://twitter.com/dinuka_jay&quot;&gt;Dinuka&lt;/a&gt; shared with my that I can&#39;t relaunch on Product Hunt (under the same name) within six months of the original launch. So this one was off the table quickly.&lt;/p&gt;
+&lt;p&gt;With these prepared I deployed the final version, tested a few things and started getting the word out. Shortly after I started, I got a message from Dinuka saying that the Facebook login didn&#39;t work because the app wasn&#39;t switched to &#39;live&#39; mode. I thought &amp;quot;Wait, I checked this and it worked for me!&amp;quot; And it did, because I&#39;m the creator of the Facebook app (haha). I thought to myself &amp;quot;well, if this is the biggest issue then I should be fine&amp;quot;.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Compared to the original launch, this one was very quiet. Not really the result I was hoping for. I knew that the traffic probably wouldn&#39;t be comparable to the launch in April as I didn’t have Product Hunt driving new visitors to my site. In percentages it looks great — over 100% more traffic increase from the previous week. In absolute numbers, it doesn&#39;t look so great — it’s still under 100 people per day. A few days later, the traffic dropped to the same number of daily visitors as before the launch.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://peterthaleikis.com/static/images/How-I-rebuilt-and-relaunched-Startup-Name-Check/traffic1-min.png&quot; alt=&quot;Graph of the traffic around the launch date&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;To put this in context:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://peterthaleikis.com/static/images/How-I-rebuilt-and-relaunched-Startup-Name-Check/traffic2-min.png&quot; alt=&quot;Graph of the traffic since the initial launch&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The big spike at the beginning is the first launch on Product Hunt. You see the traffic falling and tailing off to a few hundred users per month. I missed the spike in June as I&#39;d been in Europe at the time. The spike in August came from Vincent&#39;s article about &lt;a href=&quot;https://twomakers.io/two-makers-one-journey/&quot;&gt;his maker journey&lt;/a&gt;. The article found quite a few readers in indie hacker space and some of these readers found their way across to Startup Name Check.&lt;/p&gt;
+&lt;p&gt;The third spike happened totally unexpected. I got a little bit of love for Startup Name Check from Product Hunt in the form of a &lt;a href=&quot;https://twitter.com/ProductHunt/status/1029639336717889536&quot;&gt;tweet&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And finally, the last little spike: my relaunch. I marked it in red to make sure you don’t miss it&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://peterthaleikis.com/static/images/How-I-rebuilt-and-relaunched-Startup-Name-Check/traffic3-min.png&quot; alt=&quot;Graph of the traffic since the initial launch - red marked is my launch&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;That relaunch doesn&#39;t look like a success? Yeah, fair enough, in the classic sense of launching you would call this a failure. I&#39;m happy I built it and keep iterating on it. This time for real — small changes, without rewriting the whole application.&lt;/p&gt;
+&lt;h2&gt;Key lessons&lt;/h2&gt;
+&lt;p&gt;My key takeaways are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Don&#39;t put too much on your plate: Iterate on a small base. Every day that you delay your relaunch, your user base from the original launch is getting smaller. A few months earlier I might have been able to activate a few more of the people who talked with me after the April launch. A small work chunk size also help you to get back into working on your side project when life is throwing you off track like in my case.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Log your progress at a platform like WIP or Makerlog as well as on a Twitter thread. You get great support and people are usually more forgiving if they are actively engaged in your progress.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Be happy about the progress you make and don&#39;t force yourself too much. As long as you keep moving forward, you should be happy with yourself. You’ve got to balance your life — I know this doesn&#39;t meet the typical indie maker &amp;quot;grind 20 hours a day&amp;quot; philosophy.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Measure your personal indicators of success: Most people would consider my relaunch a complete failure. That&#39;s fair enough. But my goal wasn&#39;t to make lots of $$ with this. My goal was to build it, push myself to publish it and learn some basics about marketing. I would say that with this goal in mind, I succeeded. I suggest you to measure your success based on your goal, not on the goal others assume of you or your project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Where from here?&lt;/h2&gt;
+&lt;p&gt;Well, I could give you a long list of features I&#39;m going to build or a dreamy vision of Startup Name Check becoming the tool for all indie hackers and serial founders. Yet, I don&#39;t see this becoming &lt;em&gt;the&lt;/em&gt; next big thing — which is fine. I&#39;ll still iterate and implement feedback now and then. The niche is, and always will, stay very small. I probably can&#39;t earn money with it. I&#39;m okay with that — I&#39;m not just here to earn money.&lt;/p&gt;
+&lt;p&gt;Thanks for sticking around through this long long article! Two more quick things before we finish off:&lt;/p&gt;
+&lt;p&gt;Tell your friends please. If you know someone who could benefit from startupnamecheck.com, please let them know. I would like to see my little project getting used more 🙏&lt;/p&gt;
+&lt;p&gt;Last but not least, I would like to thank &lt;a href=&quot;https://twitter.com/Booligoosh&quot;&gt;Ethan&lt;/a&gt; (maker of &lt;a href=&quot;https://kanbanmail.app/&quot;&gt;KanbanMail&lt;/a&gt;), &lt;a href=&quot;https://twitter.com/matteing&quot;&gt;Sergio&lt;/a&gt; (maker of &lt;a href=&quot;https://getmakerlog.com/&quot;&gt;Makerlog&lt;/a&gt;) and previously already mentioned Vincent for their great help in getting this article ready to be published!&lt;/p&gt;
+&lt;p&gt;Keep shipping! 🚢️&lt;/p&gt;
+&lt;p&gt;Peter&lt;/p&gt;
+</content>
+  </entry>
+
+  <entry>
+    <title>How to Use Pug on Netlify?</title>
+    <link href="https://peterthaleikis.com/posts/how-to-use-pug-on-netlify/"/>
+    <updated>2019-03-21T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/how-to-use-pug-on-netlify/</id>
+    <content type="html">&lt;p&gt;Netlify is a powerful, yet easy to use platform to host your website. Combine this with pug and it gives you a great starting point to build and host your own website.&lt;/p&gt;
+&lt;h2&gt;What is Pug?&lt;/h2&gt;
+&lt;p&gt;Pug or PugJS, previously called Jade, is a JavaScript template engine. It assembles and combines your final HTML from different files and gives you a much cleaner development experience than plain HTML.&lt;/p&gt;
+&lt;h2&gt;How to configure pug on Netlify?&lt;/h2&gt;
+&lt;p&gt;Netlify allows you to use a number of tools when building your site. Pug isn&#39;t support out of the box but can be added and configured easily with npm. The following command installs pug, runs the compile of all pug files in the folder &lt;code&gt;pug&lt;/code&gt; and saves the result in the folder &lt;code&gt;public&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-shell&quot;&gt;npm install pug-cli; node node_modules/pug-cli/index.js pug/ --out ./public
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You will have to adjust this command to your needs to match the folders and add it to the &amp;quot;Build command&amp;quot; on your Netlify site:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://peterthaleikis.com/static/images/How-to-use-Pug-on-Netlify/screenshot-min.png&quot; alt=&quot;Netlify configuration panel&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Can I use any NPM/Yarn libraries on Netlify?&lt;/h2&gt;
+&lt;p&gt;Without having tried all, this approach should work for any library that can be installed via npm or yarn and runs directly on the command line.&lt;/p&gt;
+&lt;p&gt;All it requires is to find the correct build command to run. If you are running a particular development command on your command line (for example &lt;code&gt;npm run dev&lt;/code&gt;, &lt;code&gt;npm run watch&lt;/code&gt;, &lt;code&gt;yarn watch&lt;/code&gt;, etc.) there is a good chance this works as well. Unless it&#39;s a globally installed package. For these, you will find the file to execute in the &lt;code&gt;node_modules&lt;/code&gt; folder.&lt;/p&gt;
+&lt;h2&gt;Closing thoughts&lt;/h2&gt;
+&lt;p&gt;Even if you are a developer and &amp;quot;used to code&amp;quot;, Pug can make your site easier and faster to  maintain. Written content is a different type of information and should be somewhat separated from code - same as you don&#39;t write your CSS or JavaScript inline you should avoid it for the actual content as well.&lt;/p&gt;
+</content>
+  </entry>
+
+  <entry>
+    <title>Introduction to Static Site Generators</title>
+    <link href="https://peterthaleikis.com/posts/introduction-to-static-site-generators/"/>
+    <updated>2019-04-10T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/introduction-to-static-site-generators/</id>
+    <content type="html">&lt;p&gt;Even in 2020 many developers are used to spinning up a WordPress (or similar software) for content websites. Until recently I&#39;ve been one of these developers. I was willing to develop a website using technology to get done what I could get done without. My choice of framework wouldn&#39;t have been WordPress, but at the end the result is the same: building a system to deliver what a static publishing software could have handled easily. In many cases it simply isn&#39;t worth the effort to set up, configure and maintain a fully fledged content management system and store content in a database.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2020 is the year of the static generator. Get your blog started today! https://peterthaleikis.com/posts/introduction-to-static-site-generators/&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;What is a Static Site Generator?&lt;/h2&gt;
+&lt;p&gt;A static site generator (also called static publisher) is a program, that generates a complete website as an output. The generation can either be done locally on your computer or on a webserver during deployment. The website is then served through your web server — just like the old’n’days.&lt;/p&gt;
+&lt;p&gt;Content is typically written in a template language like Markdown or Liquid. This allows you to concentrate on your writing and ignore the layout and styling of your content. Some static generators allow you to mix and match your templates using PugJS, Markdown and others at the same time. Being a statically generated website, you&#39;ll have your content in a readable format on your computer available at any time. Should you wish to re-use it or re-publish this means very effort finding and reworking your own content.&lt;/p&gt;
+&lt;p&gt;As no database (besides the filesystem) is used no SQL or extracting addons/plugins are used. This makes your website deployment more stable and robust. With GitHub and co. you can also edit your website on the go and deploy simply by committing new content.&lt;/p&gt;
+&lt;h2&gt;Why using a Static Site Generator?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Security: There is no database or backend application. This reduces surface for attacks and  therefore makes your security excellent 🔐️&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Performance: As no backend application is serving your site less memory and CPU are used — your website stays up longer under heavy load 💪️&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Backed up by default: You will always have a copy of your content separated from the webserver (usually in git). This ensures your site is very easily replicable in case the server harddisks fail and your live site goes offline.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Easy to move: Migrate your website to another hosting company without much pain: push the output (HTML, CSS, JavaScript) onto the new server and re-configure the DNS and you are all set.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Easily choose website hosting: You don&#39;t have to worry supported technology or PHP/Python/Ruby versions, because you only need to serve static contents.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Even not a major issue anymore, still the hosting for static sites is generally cheaper. Mostly it&#39;s free: With &lt;a href=&quot;https://netlify.com/&quot;&gt;Netlify&lt;/a&gt; and &lt;a href=&quot;https://about.gitlab.com/product/pages/&quot;&gt;GitLab&lt;/a&gt;, &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub&lt;/a&gt; you get static hosting for free.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What are the limitations and what workarounds are there?&lt;/h2&gt;
+&lt;p&gt;As with any technology, there are cases where it&#39;s more suitable and useful than others. Same goes for static site generators of course. Here are some cases where you might want to consider a different approach. For most issues, there is a simple workaround nowadays. Conveniently suggestions for these workarounds are listed with the issues below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;User input is required: User input with forms (for example contact forms) was originally a limitation for static publishing. By now, this has changed with super simple solutions as &lt;a href=&quot;https://www.netlify.com/docs/form-handling/&quot;&gt;Netlify Forms&lt;/a&gt;, &lt;a href=&quot;https://formspree.io/&quot;&gt;FormSpree&lt;/a&gt; and &lt;a href=&quot;https://getsimpleform.com/&quot;&gt;getsimpleform.com&lt;/a&gt;. All these services allow you to collect information from your visitors by submitting your form to a prepared endpoint. If your site requires complex multi-step forms you might want to break them up or build a custom endpoint to submit the data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Content management system: Not everyone is keen on using their editor as a place to write. Many people still want the classic &amp;quot;logging into a website and publishing an article&amp;quot;. As with the user forms, content management systems didn&#39;t exist until a few years ago. With &lt;a href=&quot;https://www.netlifycms.org/&quot;&gt;Netlify CMS&lt;/a&gt;, &lt;a href=&quot;https://forestry.io/&quot;&gt;Forestry&lt;/a&gt; and &lt;a href=&quot;https://www.contentful.com/&quot;&gt;Contentful&lt;/a&gt; you got multiple great solutions to choose from.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Most limitations can be avoided or mitigated by having a clear separation of your frontend and backend. This allows you to consider hosting your frontend as a static site and doing the heavy lifting on the backend (if needed at all).&lt;/p&gt;
+&lt;h2&gt;Which Static Site Generator should I choose?&lt;/h2&gt;
+&lt;p&gt;There are many static site generators out there to select from. Your decision depends more on preference for frameworks than technical differences. My personal favorites are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.11ty.io/&quot;&gt;Eleventy&lt;/a&gt;: Very simple and straight forward. You can &lt;a href=&quot;https://www.11ty.io/docs/getting-started/&quot;&gt;get started with Eleventy&lt;/a&gt; in a few minutes. Supports pug, markdown and of course plain HTML by default. This website is based on the &lt;a href=&quot;https://github.com/danurbanowicz/eleventy-netlify-boilerplate&quot;&gt;Eleventy starter by Dan Urbanowicz&lt;/a&gt;. An alternative would be the &lt;a href=&quot;https://hylia.website/?ref=PeterThaleikis.com&quot;&gt;website starter called Hylia&lt;/a&gt; by Andy Bell.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://nuxtjs.org/&quot;&gt;Nuxt.Js&lt;/a&gt;: Nuxt.JS is a no-configuration framework based on the idea of NextJS and VueJS. You can write your complete website in VueJS components. Check out the &lt;a href=&quot;https://nuxtjs.org/examples&quot;&gt;getting started video for Nuxt&lt;/a&gt; in just over one minute.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;http://vuepress.vuejs.org/&quot;&gt;VuePress&lt;/a&gt;: VuePress is a Vue.js powered static site generator which combines the power of Vue with server-side rendering (SSR). Markdown is the language of choice here. After compiling you will get a single-page app. Comes with &lt;a href=&quot;https://v1.vuepress.vuejs.org/guide/#how-it-works&quot;&gt;extensive and detailed documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Final thoughts&lt;/h2&gt;
+&lt;p&gt;I’ve found the main advantage of using a static site generator to be the ease of getting things up and running. The effort for set up and configuration is very low. You can get started writing the same day. It&#39;s stable and scales very well — perfect for production websites. Using a static generator is highly recommended and has suited my needs and skills perfectly. This being said, I&#39;m sure non-devs will find their way around as well. Some understanding of HTML and CSS is recommended for any online project you are doing at the end. I encourage you to look around, try a few static site generators out to find the one that best suits your needs. If you need support consider reaching out to my &lt;a href=&quot;https://bringyourownideas.com/&quot;&gt;development company&lt;/a&gt;. I&#39;m providing a range of services with a focus on CMS and application development.&lt;/p&gt;
+</content>
+  </entry>
+
+  <entry>
+    <title>How I Built My First Browser Extension</title>
+    <link href="https://peterthaleikis.com/posts/how-i-built-my-first-browser-extension/"/>
+    <updated>2019-04-18T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/how-i-built-my-first-browser-extension/</id>
+    <content type="html">&lt;p&gt;It&#39;s been a regular day: Client work is keeping me busy as most days. I&#39;m working on several things at once. I&#39;m coming back to this site. I&#39;m signed out again. Okay, no big trouble. Just click the login link and I&#39;m back in the game. The little popup comes with three social media logins: Google, Facebook and Twitter. I remember vaguely that I used one of these — but I&#39;m not sure which one. I click on Facebook and it takes only seconds to realize &amp;quot;Damn, I created another account&amp;quot;. Annoyed at myself I browse around the setting to find the delete button. Back to square one.&lt;/p&gt;
+&lt;p&gt;Like this I&#39;ve created a number of accounts. Whenever this happened I get it fixed (deleted the account) and get back to work. That worked and all that&#39;s left is probably some data in a database and my frustration. I usually put it off as &amp;quot;I&#39;m the only one being to unable to remember.&amp;quot;&lt;/p&gt;
+&lt;p&gt;(insert facepalm image)&lt;/p&gt;
+&lt;p&gt;A few weeks ago I stumbled across this tweet by @JamesIvings:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/JamesIvings/status/1107743227531182081&quot;&gt;&lt;img src=&quot;https://peterthaleikis.com/static/images/How-I-built-my-first-browser-extension/tweet1-min.png&quot; alt=&quot;James Tweet&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Now unbelievable, but back then I couldn&#39;t believe it: I had found a second person with this issue. I send out a tweet to see if there are more people getting frustrated by this:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/spekulatius1984/status/1109025451383508997&quot;&gt;&lt;img src=&quot;https://peterthaleikis.com/static/images/How-I-built-my-first-browser-extension/tweet2-min.png&quot; alt=&quot;My research tweet&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to @IndieHackers retweeting my tweet I got a lot of responses 😍️ In the replies I researched my issue individually — I asked indirectly because I wanted an unbiased feeling for the size of the issue. The results were clear: A overwhelming number of people use social logins in a fixed or hard defined way. They aren&#39;t my target group as they wouldn&#39;t profit from it. But around 5% faced my issue and forget which login they used.&lt;/p&gt;
+&lt;p&gt;That was enough for me to give it a try. I&#39;ve decided to build a solution for it and learn how to build a &lt;a href=&quot;https://browserextension.dev/&quot;&gt;browser extension&lt;/a&gt; along the way. The same night I started by adopting examples Mozilla provided. JavaScript wasn&#39;t the issue, but getting the access to the browser right was an uphill battle first. The next day I showed it to Thomas Petracco, who is working from the same co-working space atm. We chatted about the idea and tried it on a few more sites. We noticed that some sites aren&#39;t working — we talked more and thought about a better algorithm.&lt;/p&gt;
+&lt;p&gt;After two more rewrites the extension was working well and stable. It&#39;s now checking the last pages accessed while you surf. If a sign-in is recognized it adds the name of the network (Twitter, Facebook, Google or GitHub) to the page. No data is sent to my server, ever. Everything stays in the local storage 🔐️&lt;/p&gt;
+&lt;p&gt;A few sites aren&#39;t working — and can&#39;t work because of the way they are built 😐️ This is solved by having the option to manually add a network to any site you are visiting. This ensures you can get still remember which login you used last time.&lt;/p&gt;
+&lt;p&gt;Keen to see more? Head over to &lt;a href=&quot;https://whichlogin.com/&quot;&gt;WhichLogin.com&lt;/a&gt; and check it out! I&#39;m keen to hear your feedback 🙏️&lt;/p&gt;
+</content>
+  </entry>
+
+  <entry>
+    <title>All You Need to Know about the Which Login Launch</title>
+    <link href="https://peterthaleikis.com/posts/all-you-need-to-know-about-the-which-login-launch/"/>
+    <updated>2019-04-21T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/all-you-need-to-know-about-the-which-login-launch/</id>
+    <content type="html">&lt;p&gt;Previously I&#39;ve written about &lt;a href=&quot;https://peterthaleikis.com/posts/how-i-built-my-first-browser-extension/&quot;&gt;the story why I&#39;ve built WhichLogin&lt;/a&gt;. Now it&#39;s time to go a bit deeper and share more about the excitement and stress on launch day.&lt;/p&gt;
+&lt;h2&gt;Exciting: Getting ready for launch day&lt;/h2&gt;
+&lt;p&gt;Even with detailed preparation and testing you will never know for sure if everything goes as expected. There are hundreds of details that could potentially go wrong. Going live is never just a click on a button. This is why even after many years as a software engineer there is still a lot of stress involved with pushing my work live.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Going live is never just a click on a button.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is even worse when I&#39;m publishing my very own project — the baby I&#39;ve been nurturing over the last weeks/months. If, let&#39;s say, my role in a team is the backend development I won&#39;t take any critic on the design to very much heart naturally. With your very own project, it&#39;s 100% with you. Every decision is going back to you: from the idea, to the product, to the design of the website and down to details like rounded buttons or not. Every bit will be your responsibility. This is the freedom I love, but it also increases my stress dramatically.&lt;/p&gt;
+&lt;h2&gt;Preparation is key for a successful launch&lt;/h2&gt;
+&lt;p&gt;I think nothing beats a solid preparation for the launch. If you plan to launch and you realize your images aren&#39;t the right size (or you don&#39;t have any) you losing valuable time. In this time other projects are ready and pushing forward.&lt;/p&gt;
+&lt;p&gt;I usually spend around the same time preparing the launch as I spend on the development of the product. This might sound crazy but worked out as correct for the launch of &lt;a href=&quot;https://startupnamecheck.com/&quot;&gt;startup name check&lt;/a&gt; as well as WhichLogin. This means preparing texts and images for ProductHunt, IndieHackers and of course Twitter. I tend to double check everything many times as I&#39;m reworking text many times until I&#39;m happy. For the first time, I&#39;ve produced a screencast video to explain the functionality. It&#39;s also the first time used my new personal brand and recently stealth launched blog (this site). This follows my general approach: I like to reuse ideas which worked out well last time or I&#39;ve seen somewhere working well and add a few new things to try out.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I usually spend around the same time preparing the launch as I spend on the development of the product.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;On the launch day, I&#39;m high on coffee and ready with a set of images, texts, tweets and personal messages to friends. Everything sorted and clearly named in a folder and in one big text file. I like to sort the content items in the order I plan to push them out to avoid mix-ups. Even with all the preparation I never feel really ready, so at some point, I &amp;quot;just need to do it&amp;quot;. I hope to be halfway ready and waiting for midnight SF time — which falls conveniently to 2 pm in Thailand.&lt;/p&gt;
+&lt;h2&gt;Launch day on Auto-Pilot&lt;/h2&gt;
+&lt;p&gt;Right after midnight SF time I click &lt;a href=&quot;https://wheretopost.email/kb/submit/launching-on-producthunt.html&quot;&gt;&amp;quot;submit&amp;quot; on ProductHunt&lt;/a&gt;. I get to my new product and there is no way back anymore. Like a rocket, I have switched to auto-pilot at this point. I switch back to my editor and start submitting the content I&#39;ve prepared one by one.&lt;/p&gt;
+&lt;p&gt;The first reactions fly in and I see a few retweets. Adrenaline and caffeine are racing through my system. I switch between my prepared text file and Firefox at high speed, trying to keep up with everything. Now and then I take a few seconds rest and check Google Analytics to see how many people are on the site. Every time the number of visitors jumps up I jump as well. I push more content and messages out while people upvote my little extension. I&#39;m pretty excited as I reached the third position in the daily ranking. Now I&#39;m refreshing the ProductHunt constantly to check the difference between my listing and the currently second. Just a short time after this I can&#39;t trust me eyes as my extension just jumped onto the second position on ProductHunt 😍️&lt;/p&gt;
+&lt;p&gt;So far everything went really well - until I come to publish my article to IndieHackers. I&#39;m struggling to find the article submit option. I don&#39;t just want to post the article as a regular post - there was an article option last time I&#39;ve used it. Now there is only a &amp;quot;send us your content for consideration&amp;quot;-option 🤔️ I reach out to IndieHackers and learned that the option has been removed and replaced by the IndieHacker product updates. Last time I launched a project this was still limited to products using Stripe 🙄️ My article doesn&#39;t fit the format. I park the idea and jump onto Twitter to push the wave I&#39;ve been building up so hard.&lt;/p&gt;
+&lt;p&gt;A friend tweeted me that he purchased the extension. I can&#39;t believe it. Even he is a friend — I&#39;ve made a few Euro! I&#39;m stoked 🤑️ I&#39;m slightly surprised I didn&#39;t receive an email from Google. As it&#39;s my first extension, I&#39;m not sure everything works really and I decided to ignore the feeling and push forward for now. Around 5 or 6 pm and my body started to complain about the insufficient supply with food. I get a meal while tweeting from my phone. My girlfriend is understanding as it&#39;s an exciting day.&lt;/p&gt;
+&lt;p&gt;A bit later I get a tweet from another customer saying the installation didn&#39;t work. My stress peaks. Does it work? Did I forget something important? Is the extension working? Maybe I didn&#39;t get any payment emails because there weren&#39;t any successful purchases? Worries and stress take over from the excitement. I spend my time handling messages and tweet while writing the product text for IndieHackers. The upvotes picked up more and my extension takes over the first spot on ProductHunt 😍️ I&#39;m mind-blown 🤯️ I can&#39;t believe it and take screenshots every few minutes because I expect to drop down to the second place any second.&lt;/p&gt;
+&lt;p&gt;Around 3 am I fall asleep exhausted with my laptop next to me. The next morning I research and find the orders, everything is fine. I&#39;m incredibly relieved — it wasn&#39;t all for nothing. I&#39;m also happy to see that my little extension project is still on the second spot on ProductHunt. What a result: I have to thank all the great people checking out and upvoting my product for this!&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;If you didn&#39;t fall asleep during my story above you have really deserved getting the result by now. There are many things to say about the launch, but I try to keep it to key highlights:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;a href=&quot;https://twitter.com/spekulatius1984/status/1118775156736835584&quot;&gt;launch tweet&lt;/a&gt; has received incredible 46 retweets and 102 likes. It was viewed almost 15,000 times! 🤯️&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Unbelievable 444 people upvoted the extension (until today) on ProductHunt leading to a second place on launch day: &lt;img src=&quot;https://peterthaleikis.com/static/images/All-you-need-to-know-about-the-Which-Login-launch/producthunt-badge-min.png&quot; alt=&quot;ProductHunt badge for WhichLogin&quot; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I&#39;ve got a crazy number of message and tweets giving my their feedback 😍️ I&#39;m still working on implementing the feedback for the website as well as the extension itself.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Around 1400 people visited &lt;a href=&quot;https://whichlogin.com/&quot;&gt;WhichLogin.com&lt;/a&gt; and the extension on the Chrome store (both tracked using the same GA). Main drivers for the traffic were ProductHunt and Twitter. This is from the GA for the time since Thursday: &lt;img src=&quot;https://peterthaleikis.com/static/images/All-you-need-to-know-about-the-Which-Login-launch/which-login-google-analytics-min.png&quot; alt=&quot;Google Analytics of the launch day&quot; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Not just one 🤯️ but six people purchased my extension until today 😍️ The total revenue is 23.76 Euro 🤑️ Unbelievable!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Most buyers came from the US 🇺🇲️ (3) and each one from Canada, Malaysia, and the UK 🤩️&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&#39;m super happy with this incredible result! I&#39;ve not expected so much positive feedback and so many upvotes. I hoped for one or two purchases. Never ever I would have expected six purchases.&lt;/p&gt;
+&lt;h2&gt;What I&#39;ve learned from the launch&lt;/h2&gt;
+&lt;p&gt;Not all completely new, but there are some very good, detailed learnings I had from the launch of my extension:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Not really a learning, more something that needs to &amp;quot;sink in&amp;quot; more: Most people are great and more than happy to help out when you are creating something. The more useful your product is the more likely they are to share your launch tweet or project. An additional boost you can get from creating in an open manner and sharing your experience. For example by sharing the progress on &lt;a href=&quot;https://getmakerlog.com/products/which-login&quot;&gt;makerlog&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/spekulatius1984/status/1118775156736835584&quot;&gt;Twitter thread&lt;/a&gt; or in a &lt;a href=&quot;https://www.indiehackers.com/product/which-login-did-i-use-last-time&quot;&gt;product feed on IndieHackers&lt;/a&gt;. By the way: this is a great moment to follow all of them 😉️&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;As I&#39;ve learned SVG icons aren&#39;t good for the icon in the bar. Works fine during development but gives unpleased warning once delivered via the Chrome extension store. This brings me straight to the second, related learning: Loading the extension directly in the browser and the installation via the webstore aren&#39;t producing exactly the same results. Test them both!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The third learning is more user experience related: Every extension should have a clear &amp;quot;I&#39;m installed, all good&amp;quot; message. Either in the form of a notification or in the form of a new tab with a web-page being opened. Without this users might not be entirely sure if the installation was successful or not. I&#39;ve fixed this by now and every new user of WhichLogin gets a nice detailed help page 📔️&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So much from me for now. I&#39;ll keep all three channels (Twitter thread, Makerlog and IndieHackers) updated. Don&#39;t forget to check in now and then.&lt;/p&gt;
+&lt;p&gt;Peter&lt;/p&gt;
+</content>
+  </entry>
+
+  <entry>
+    <title>How to Improve the Security of Your Netlify Site</title>
+    <link href="https://peterthaleikis.com/posts/how-to-improve-the-security-of-your-netlify-site/"/>
+    <updated>2019-05-01T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/how-to-improve-the-security-of-your-netlify-site/</id>
+    <content type="html">&lt;p&gt;Recently I&#39;ve rebuilt my blog (this website) using &lt;a href=&quot;http://11ty.io/&quot;&gt;Eleventy&lt;/a&gt; and &lt;a href=&quot;http://netlify.com/&quot;&gt;Netlify&lt;/a&gt;. Being an engineer, I like to enhance and improve my websites. Sometimes I submit my websites to services that check them to identify new areas of improvement. These services are for example broken link crawlers to find links which aren&#39;t working anymore or &lt;a href=&quot;https://securityheaders.com/&quot;&gt;securityheaders.com&lt;/a&gt;, a service to check the HTTP headers for potential security enhancements/issues.&lt;/p&gt;
+&lt;h2&gt;The initial security assessment of my Netlify site&lt;/h2&gt;
+&lt;p&gt;As with many times before, I entered one of my websites for the check of the security-relevant HTTP headers on securityheaders.com. The result came back quickly and showed there is a potential to improve the headers. Only &amp;quot;Grade D&amp;quot; according to Scott Helme&#39;s site:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://peterthaleikis.com/static/images/How-to-improve-the-security-of-your-Netlify-site/result-before-min.png&quot; alt=&quot;Securityheaders Result of my website before any modification&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Easy to improve with Netlify&#39;s _headers file&lt;/h2&gt;
+&lt;p&gt;The outstanding Netlify developer experience makes it very easy to tweak the headers. Netlify allows you to set additional headers in a file called &lt;code&gt;_headers&lt;/code&gt;. This file should live in your &amp;quot;Publish directory&amp;quot;. This is often called &lt;code&gt;public/&lt;/code&gt;, &lt;code&gt;dist&lt;/code&gt; or &lt;code&gt;_site&lt;/code&gt;. If you are unsure you can check it in the Netlify admin panel of your site under &amp;quot;Build &amp;amp; Deploy&amp;quot;.&lt;/p&gt;
+&lt;p&gt;The headers file allows you to define headers for different URLs (for example &lt;code&gt;/contact&lt;/code&gt;) or URL segments (for example &lt;code&gt;/*&lt;/code&gt; for all URLs) of your page. In my case it&#39;s very simple as I want to apply the headers to all pages (URLs):&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;/*
+ X-Frame-Options: DENY
+ X-XSS-Protection: 1; mode=block
+ Referrer-Policy: no-referrer
+ X-Content-Type-Options: nosniff
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;_headers&lt;/code&gt;-file example used on peterthaleikis.com&lt;/p&gt;
+&lt;p&gt;With these headers I get a significantly improved result and a &amp;quot;Grade A&amp;quot;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://peterthaleikis.com/static/images/How-to-improve-the-security-of-your-Netlify-site/result-after-min.png&quot; alt=&quot;Securityheaders Result of my website after tweaking _headers&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Adding the header file to your git, pushing it up and deploying shouldn&#39;t take more than five minutes and improves the security of your website significantly. I would think these are well invested minutes 🙏️&lt;/p&gt;
+</content>
+  </entry>
+
+  <entry>
+    <title>Differences between locally loaded vs. store-installed Extensions</title>
+    <link href="https://peterthaleikis.com/posts/differences-between-locally-loaded-vs.-store-installed-extensions/"/>
+    <updated>2019-05-22T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/differences-between-locally-loaded-vs.-store-installed-extensions/</id>
+    <content type="html">&lt;p&gt;There are minor, but often important differences between temporary loaded &lt;a href=&quot;https://browserextension.dev/&quot;&gt;browser/Chrome extensions&lt;/a&gt; and extensions, which have been installed via the Chrome webstore/Mozilla Addon store. These can be tricky to debug, as they appear only in limited circumstances. Here is a list of differences, I&#39;ve been identifying while developing my browser add-on:&lt;/p&gt;
+&lt;h2&gt;Chrome and SVG icons aren&#39;t going well together&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Chrome&lt;/code&gt;, &lt;code&gt;SVG&lt;/code&gt;, &lt;code&gt;Happens-only-on-Webstore&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;With the public release of the &lt;a href=&quot;https://peterthaleikis.com/posts/all-you-need-to-know-about-the-which-login-launch/&quot;&gt;first version of my extension&lt;/a&gt;, I&#39;ve noticed that some people got a notification on install &amp;quot;Could not decode image: &#39;icon.svg&#39;&amp;quot;. My first attempt to resolve this was naturally ensuring the SVG is valid and it contains a valid XML-tag &lt;code&gt;&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt;&lt;/code&gt; at the beginning. This wasn&#39;t successful, unfortunately. Chrome just doesn&#39;t seem to like SVG icons. I decided to resolve the issue by replacing the SVG icon with a PNG image instead. The SVG images can easily be converted using a free online service like &lt;a href=&quot;https://svgtopng.com/&quot;&gt;svgtopng.com&lt;/a&gt;. After replacing and awaiting the review by the Chrome team the issue was finally resolved.&lt;/p&gt;
+&lt;h2&gt;Firefox Storage API locally vs. in production&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Firefox&lt;/code&gt;, &lt;code&gt;Storage API&lt;/code&gt;, &lt;code&gt;Happens-locally-loaded&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;The storage API might not work as you intended when installing the extension temporarily. On restart of Firefox and reinstalling your temporary extension, Firefox will assign your addon a new ID (identifier). This unique identifier is used to namespace the local and sync storage. Result of the change is, your storage clearing itself without any obvious reason. The only hint is in hidden away the console of the background JS. There you might find the following message:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Error: &amp;quot;The storage API will not work with a temporary addon ID. Please add an explicit addon ID to your manifest. For more information see https://bugzil.la/1323228.&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Reading through the &lt;a href=&quot;https://bugzil.la/1323228&quot;&gt;bug report&lt;/a&gt; hinted on how to resolve this issue. It can be resolved by adding the following keys to your manifest.json:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-json&quot;&gt;&amp;quot;applications&amp;quot;: {
+  &amp;quot;gecko&amp;quot;: {
+    &amp;quot;id&amp;quot;: &amp;quot;whichlogin@peterthaleikis&amp;quot;,
+    &amp;quot;strict_min_version&amp;quot;: &amp;quot;53.0&amp;quot;
+  }
+},
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The &amp;quot;id&amp;quot; can either be either an&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;an email address,&lt;/li&gt;
+&lt;li&gt;a string like &lt;code&gt;project@yourname&lt;/code&gt; or&lt;/li&gt;
+&lt;li&gt;a UUID.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Make sure to avoid real or catch-all email addresses as you might make yourself a target for spammers. Adding the &amp;quot;applications&amp;quot; key will lead to a warning issued by Chrome &lt;code&gt;Unrecognized manifest key &#39;applications&#39;&lt;/code&gt;. Preassumbly this warning can be ignored.&lt;/p&gt;
+&lt;h2&gt;Found more problems? Please reach out!&lt;/h2&gt;
+&lt;p&gt;I&#39;ll extend this list as I discover new differences to help other browser extension developers out 🙏️ If this article helped you please consider sharing it on Twitter. Have you found another difference and would like to add it? Shout out on Twitter or Telegram (see contact) and I&#39;ll add it in 👍️&lt;/p&gt;
+</content>
+  </entry>
+
+  <entry>
+    <title>How to Check Do Not Track (DNT) in JavaScript?</title>
+    <link href="https://peterthaleikis.com/posts/how-to-check-do-not-track-(dnt)-in-javascript/"/>
+    <updated>2019-05-25T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/how-to-check-do-not-track-(dnt)-in-javascript/</id>
+    <content type="html">&lt;h2&gt;What is Do Not Track?&lt;/h2&gt;
+&lt;p&gt;Do not track is a user preference to not being tracked by Google Analytics or similar services. If active, it is sent as an HTTP header with all requests going out to servers. Depending on the browser you are using this is switched on by default in private/incognito sessions.&lt;/p&gt;
+&lt;h2&gt;How to check if DNT is set using JavaScript?&lt;/h2&gt;
+&lt;p&gt;In some cases, you might need to find out if DNT is active on the fly when someone is visiting your website. This could, for example, be the case if you are using a &lt;a href=&quot;https://peterthaleikis.com/posts/introduction-to-static-site-generators/&quot;&gt;static site generator&lt;/a&gt; and need to compile the GA code in, but only activate it if your website visitor is fine with it. The following code snippet allows you to check if DNT is set using JavaScript:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;let dntActive = () =&amp;gt; {
+  // get the value from the various browser implementations.
+  let dnt_active = parseInt(
+    // Internet Explorer 9 and 10 vendor prefix
+    navigator.msDoNotTrack ||
+
+    // IE 11 uses window.doNotTrack
+    window.doNotTrack ||
+
+    // W3C
+    navigator.doNotTrack,
+    10
+  );
+
+  // If this comes to exactly 1 DNT is set.
+  return (dnt_active === 1);
+}
+
+// Check if DNT is active.
+if (dntActive()) {
+  // active
+} else {
+  // inactive
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Following this example, you should find out if a user doesn&#39;t like to be tracked.&lt;/p&gt;
+&lt;p&gt;This quick tip was inspired by &lt;a href=&quot;https://github.com/saberland/saber/blob/master/packages/saber-plugin-google-analytics/saber-browser.js&quot;&gt;https://github.com/saberland/saber/blob/master/packages/saber-plugin-google-analytics/saber-browser.js&lt;/a&gt; 🙏️&lt;/p&gt;
+</content>
+  </entry>
+
+  <entry>
+    <title>No Real Plan, No Prep, Just Launching Quickly: Random Elon</title>
+    <link href="https://peterthaleikis.com/posts/no-real-plan-no-prep-just-launching-quickly:-random-elon/"/>
+    <updated>2019-05-27T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/no-real-plan-no-prep-just-launching-quickly:-random-elon/</id>
+    <content type="html">&lt;p&gt;Sometimes all the planning and thinking about a project is too much. You just got to jump in and build something. That&#39;s what &lt;a href=&quot;https://jesswallace.co/&quot;&gt;Jess&lt;/a&gt; and I did last night. We spontaneously decided to roll out a random, unplanned side-project: &lt;a href=&quot;https://randomelon.peterthaleikis.com/&quot;&gt;Random Elon&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Random Elon returns you a randomly selected Elon Musk quote. You can then share it directly on Twitter to show your love for Elon. Powered by TailwindCSS, plain PHP7 and Laravel Forge the built took less than an hour to build. We started talking and while we were still talking Jess actually put a page together already. I set up some hosting quickly. Forge makes hosting it incredibly easy. Data was quickly collected using &lt;a href=&quot;https://tryspider.com/&quot;&gt;spider&lt;/a&gt;. Social media images are sponsored by &lt;a href=&quot;https://imageee.com/&quot;&gt;imageee&lt;/a&gt;. Makers collaboration 💪️&lt;/p&gt;
+&lt;h2&gt;Open source for the win!&lt;/h2&gt;
+&lt;p&gt;If you want to build something similar you can actually just fork our &lt;a href=&quot;https://github.com/thecookiemonsters/RandomElon&quot;&gt;repo on GitHub&lt;/a&gt; and get started straight away. It&#39;s mostly HTML. The project literally has only two lines of functional code. No need to think about it much 🤣️ Create your Random Quote selector today and win a cookie 🍪️&lt;/p&gt;
+&lt;h2&gt;Missing your favorite Elon words?&lt;/h2&gt;
+&lt;p&gt;If you think a great Elon quote is missing please send a pull request at the Github repo mentioned above. We are happy to update the quotes to include it 🙏️&lt;/p&gt;
+&lt;h2&gt;Update #1: The Random Elon API&lt;/h2&gt;
+&lt;p&gt;During the launch a few people asked for an API to access the data. Adding another small PHP script taking one of the quotes and returning it encoded as JSON has a minor job and done in minutes - to everyone&#39;s happiness 🤩️&lt;/p&gt;
+&lt;h2&gt;Update #2: iPhone app&lt;/h2&gt;
+&lt;p&gt;Full of &lt;a href=&quot;https://twitter.com/dense_design/status/1133164234135736325&quot;&gt;excitement Ruben&lt;/a&gt; decided to build an iPhone-app based on Random Elon. The app was done in under an hour. But the excitement wasn&#39;t shared by Apple. Apple wasn&#39;t excited about the app at all and dragged the review out. First the ask to remove the Elon photo, then they asked to remove his name. At the end Rubens work still got declined - No Random Elon iPhone app 😞️&lt;/p&gt;
+&lt;h2&gt;Disclaimer&lt;/h2&gt;
+&lt;p&gt;Otherwise, I have to say, no animals were harmed in the development of this project. Tasty cookies have been eaten. 🍪️&lt;/p&gt;
+</content>
+  </entry>
+
+  <entry>
+    <title>Side-project Ideas up for Grabs</title>
+    <link href="https://peterthaleikis.com/posts/side-project-ideas-up-for-grabs/"/>
+    <updated>2019-06-07T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/side-project-ideas-up-for-grabs/</id>
+    <content type="html">&lt;p&gt;Building a side-project should be fun. Coming up with a good idea, validating it and building a business are all very different, yet exciting challenges. You will never have as much freedom as you have on your own truly 100%-own project. This article is for those, who haven&#39;t found the one idea they are planning to work on for the next months or years. It hopefully gives you starting points or food for thought.&lt;/p&gt;
+&lt;p&gt;Before we get started: Not all ideas listed here are suitable to build a business of them. Some of these ideas are &amp;quot;fun project&amp;quot;-type of ideas. Fun projects are great stepping stones to more sizable, commercial projects. I would especially recommend you to consider fun projects if you are completely new or aren&#39;t used to the indie maker space yet. You can use fun projects to get used to putting your work out there, learning how to market it and build an audience at the same time. I&#39;ve started for example &lt;a href=&quot;https://randomelon.peterthaleikis.com/&quot;&gt;Random Elon&lt;/a&gt; with &lt;a href=&quot;https://jesswallace.co/&quot;&gt;Jess Wallace&lt;/a&gt; as a fun project.&lt;/p&gt;
+&lt;h2&gt;Too many ideas? No ideas?&lt;/h2&gt;
+&lt;p&gt;Ideas for startups and side projects are a topic in themselves. Some people seem to struggle coming up with ideas while others seem to drown in ideas. I&#39;m probably closer to the latter. A while ago I&#39;ve started collecting my ideas -good and bad- with notes. Now I&#39;ve decided to share them with anyone who is interested. This is aimed at giving potentially interested makers starting points. Most ideas in my list are either up for grabs (as far as I know) and simply ideas I can&#39;t spend more time on as I&#39;m pretty busy already.&lt;/p&gt;
+&lt;p&gt;A little disclaimer: I didn&#39;t do proper research on most of these ideas. If you are interested, you should spend some time finding out if the idea is &lt;a href=&quot;https://peterthaleikis.com/business-idea-validation&quot;&gt;actually feasible&lt;/a&gt; and (still) makes sense to build. Always consider your personal strengths and skills when you are making a decision. Don&#39;t forget to keep an eye on the market too. If you can&#39;t build everything yourself reach out to a development company such as my &lt;a href=&quot;https://bringyourownideas.com/&quot; target=&quot;_blank&quot;&gt;bring your own ideas Ltd.&lt;/a&gt; for support.&lt;/p&gt;
+&lt;h2&gt;No NDA or copyright? Just like this?&lt;/h2&gt;
+&lt;p&gt;I&#39;m not worried about NDAs, copyright or anything. I&#39;m openly sharing them to make the start for other Indiehackers easier. Feel free to use them! If you build them I don&#39;t have to!&lt;/p&gt;
+&lt;p&gt;If you decide (after your research) to build a side-project on one of these ideas feel free to contact me. I&#39;ll update the list and am happy to help you with feedback and launch-tweets. Please also let me know you if there is already an existing solution/product for any of the listed ideas 🙏️&lt;/p&gt;
+&lt;h2&gt;These ideas are public. What are they worth really?&lt;/h2&gt;
+&lt;p&gt;Yeah, these ideas are public. Like most ideas. Amazon&#39;s business model is public (as almost any company&#39;s business model). Mighty Amazon was a little Online shop for a long time. Many people started online shops at the same time. Some even copied Amazon directly. Most of these online shops don&#39;t exist anymore - Amazon has replaced them. Not by having a unique idea, by having a unique execution. It&#39;s not about the idea so much as it is about the execution.&lt;/p&gt;
+&lt;h2&gt;List of side-project ideas&lt;/h2&gt;
+&lt;p&gt;Here is my list. Some are better, some are worse. See for yourself:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Idea&lt;/th&gt;
+&lt;th&gt;Details&lt;/th&gt;
+&lt;th&gt;People to talk to&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;quot;Quick Response&amp;quot; Browser Extension&lt;/td&gt;
+&lt;td&gt;A browser extension allowing you to quickly fill fields with predefined messages - and submit them. Don&#39;t type stuff like &amp;quot;Thanks!&amp;quot;, &amp;quot;Wow, that&#39;s cool! 🤩️&amp;quot;, etc. again and again. Just click the response! Should be configurable to allow custom versions.&lt;/td&gt;
+&lt;td&gt;Nobody is doing this as far as I know.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;quot;Ready Or Not?&amp;quot; Service&lt;/td&gt;
+&lt;td&gt;A small service from indie makers for indie makers. The goal is to help indie makers making a call if their projects are ready for launch.&lt;/td&gt;
+&lt;td&gt;Some people have done feedback-related projects before. But I haven&#39;t seen a launch focused option.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;quot;SameClicks&amp;quot; Chrome Extension&lt;/td&gt;
+&lt;td&gt;A browser add-on to automate repetitive tasks like clicking to confirm stuff by recording the element(s) clicked on.&lt;/td&gt;
+&lt;td&gt;I&#39;ve seen one tool, but that was just way over the top in features.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ad-free DNS service&lt;/td&gt;
+&lt;td&gt;A public DNS service which doesn&#39;t resolve for advertising and tracking related requests. Information could, for example, come from the &lt;a href=&quot;https://pi-hole.net/&quot;&gt;project &amp;quot;Pi-Hole&amp;quot;&lt;/a&gt;. For mobile provide an app which reconfigures the DNS.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;IndieHackerBooks Website&lt;/td&gt;
+&lt;td&gt;A curated list of books for Indiehackers. Pretty much a content site.&lt;/td&gt;
+&lt;td&gt;Not sure if someone works on this.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;RandomMakerSite Website&lt;/td&gt;
+&lt;td&gt;Imagine a site you go onto and get redirected to a random maker or product, either on IndieHackers, HackerNews, ProductHunt or Reddit. I would probably add a weighting in to highlight small to medium popular makers and products - gives the site more value.&lt;/td&gt;
+&lt;td&gt;Nobody is working on this, as far as I know.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;quot;When is it airing for me?&amp;quot;-Site&lt;/td&gt;
+&lt;td&gt;A site which gives you global (sport) events (NFL, Rugby, Soccer, Donald Trumps Walk of Shame) for each time zone, country, and major cities. This project would answer Google questions like &amp;quot;When are the NFL games running in Cambodia?&amp;quot;. This should drive some long tail searches towards the site.&lt;/td&gt;
+&lt;td&gt;Nobody is working on this, as far as I know.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;quot;Share where I&#39;m coming from&amp;quot;-Extension&lt;/td&gt;
+&lt;td&gt;Sometimes you might want to support a project and share actively when you are using their website to go to another website. Sharing the information where you came from might drive some attention to the original site — the website you are keen to support. Adding useful GA (UTM) parameters will ensure the target website owner has a chance to know how you came to the site. Simple use-case: You click a link on producthunt.com and want to make sure the website you are going to knows you came this way.&lt;/td&gt;
+&lt;td&gt;Nobody is working on this, as far as I know.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Browser extension to help with Right-Left confusion&lt;/td&gt;
+&lt;td&gt;A surprising number of people needs to deal with Right-Left confusion. This a problem where you struggle to recall what is &lt;a href=&quot;https://faculty.washington.edu/chudler/java/hands1.html&quot;&gt;right and left on demand&lt;/a&gt;. A simple extension, which shows either &amp;quot;R&amp;quot; or &amp;quot;L&amp;quot; as an icon in the browser (when your mouse is in the this part of the screen) can help.&lt;/td&gt;
+&lt;td&gt;Nobody is working on this, as far as I know.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;quot;ForFirefox&amp;quot;-Addon&lt;/td&gt;
+&lt;td&gt;As a Firefox user you often stumble across Chrome extensions which look neat and you might want for Firefox. But these either aren&#39;t mentioned, linked or aren&#39;t available. This extension helps you to find them by pointing you directly where you want to go. The biggest question is: How to obtain the data?&lt;/td&gt;
+&lt;td&gt;Nobody is working on this, as far as I know.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;quot;OtherAccounts&amp;quot;-Extension&lt;/td&gt;
+&lt;td&gt;Sometimes when you visit a profile you might find this person interesting and want to see more of him/her. This browser extension shows you the other accounts of this person. The biggest question is: How to get the data?&lt;/td&gt;
+&lt;td&gt;Nobody is working on this, as far as I know.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Update #1: Adding some more ideas in.&lt;/h2&gt;
+&lt;p&gt;I&#39;ve decided to add some more ideas in. I probably need to rename this article &amp;quot;100 ideas for browser extensions&amp;quot; soon 😂️&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Idea&lt;/th&gt;
+&lt;th&gt;Details&lt;/th&gt;
+&lt;th&gt;People to talk to&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;quot;No More&amp;quot;-Extension&lt;/td&gt;
+&lt;td&gt;Many websites use &amp;quot;more&amp;quot; or &amp;quot;read more&amp;quot; to hide longer forms of content. For example, Quora hides length-ly answers. I think more people prefer the longer content than you might expect. It often provides some decent, deeper explanation and reasoning. My personal dream would be, if you could define a configuration like &amp;quot;always unfold, unless more than N words.&amp;quot;&lt;/td&gt;
+&lt;td&gt;New?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;quot;Keep an eye on&amp;quot;-Extension&lt;/td&gt;
+&lt;td&gt;Imagine you can select any element on a website (paragraph, sentence, image, price, ...) and the extension would notify you when the content changes. Right there in your browser using a notification leading you to the websites.&lt;br /&gt;&lt;br /&gt;Thomas pointed me to the &lt;a href=&quot;https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge&quot; title=&quot;Distill Web Monitor&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;&gt;Distill Web Monitor&lt;/a&gt; extension (for &lt;a href=&quot;https://addons.mozilla.org/en-US/firefox/addon/distill-web-monitor-ff/&quot; title=&quot;Distill Web Monitor for Firefox&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;&gt;Firefox&lt;/a&gt;), which pretty much solves the problem. I haven&#39;t tested it how much is available in the free version tho.&lt;/td&gt;
+&lt;td&gt;New?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;TwitterStory&lt;/td&gt;
+&lt;td&gt;A service you access which generates you a static website or HTML-page for your own blog from your Tweets, categorized by topics. Sorted by likes with a reduction over time (older tweets need more likes to stay on top).&lt;/td&gt;
+&lt;td&gt;New?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;😖️ Date-Sanity extension&lt;/td&gt;
+&lt;td&gt;A browser extension, which replaces all dates written in US-date format (mm/dd/yyyy) with dd/mm/yyyy to keep you sane.&lt;/td&gt;
+&lt;td&gt;New?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;quot;Auto-Surf&amp;quot;-Extension&lt;/td&gt;
+&lt;td&gt;Simply an extension which you provide a number of URLs and it surfs to each of them. Other extensions can take other actions, such as collecting information. Maybe there is already something out for this. I haven&#39;t checked it - simply an idea.&lt;/td&gt;
+&lt;td&gt;New?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;url 2 favicon&lt;/td&gt;
+&lt;td&gt;A web-service, which grabs you the favicon of any URL as assets. Good for listing stuff as you can make lists more visually pleasing. Ideally pre-optimized (width/height and file format). Use file caching as well as long caching headers to avoid constant requests. API for deeper integrations.&lt;br /&gt;&lt;br /&gt;Interesting input from Thomas, Selvam and Ethan. The service already exists, as part of other major sites such as Google and DuckDuckGo: &lt;a href=&quot;https://www.google.com/s2/favicons?domain=indiehackers.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferer noopener&quot;&gt;https://www.google.com/s2/favicons?domain=indiehackers.com&lt;/a&gt; and &lt;a href=&quot;https://proxy.duckduckgo.com/ip3/producthunt.com.ico&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferer noopener&quot;&gt;https://proxy.duckduckgo.com/ip3/producthunt.com.ico&lt;/a&gt;. Ethan was correctly mentioning, that the favicon is not of much use as the quality is fairly low. He uses the Clearbit API instead: &lt;a href=&quot;http://logo.clearbit.com/Google.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferer noopener&quot;&gt;http://logo.clearbit.com/Google.com&lt;/a&gt;. The number of logos is more limited than the number of favicons tho.&lt;/td&gt;
+&lt;td&gt;New?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Wow, you really read the whole list haha. As mentioned, very little is decided by having the idea at the end. It&#39;s about putting the hard work in. Once you have decided on a project, you can check the names you come up with on &lt;a href=&quot;https://startupnamecheck.com/&quot;&gt;startup name check&lt;/a&gt; of course! 😍️&lt;/p&gt;
+</content>
+  </entry>
+
+  <entry>
+    <title>Getting Started on Indiehackers</title>
+    <link href="https://peterthaleikis.com/posts/getting-started-on-indiehackers/"/>
+    <updated>2019-06-15T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/getting-started-on-indiehackers/</id>
+    <content type="html">&lt;p&gt;Not too long ago (around a year), I started out in the maker space. Back then I&#39;ve just discovered &lt;a href=&quot;https://producthunt.com/&quot;&gt;ProductHunt&lt;/a&gt; and &lt;a href=&quot;https://indiehackers.com/&quot;&gt;IndieHackers&lt;/a&gt;. My focus was still on employment and my commitment to a long-running startup. The idea to build small, independent businesses grew slowly on me. Around this time, I&#39;ve decided to build something and give it a try. I thought &lt;em&gt;&amp;quot;worst-case, I learn something&amp;quot;&lt;/em&gt; and started to build &lt;a href=&quot;https://startupnamecheck.com/&quot;&gt;startup name check&lt;/a&gt;. My first, surely not last &lt;a href=&quot;https://peterthaleikis.com/tags/side-projects/&quot;&gt;side-project&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I thought &amp;quot;worst-case, I learn something&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Back then I was lucky and &lt;a href=&quot;https://twomakers.io/&quot;&gt;Vincent&lt;/a&gt; guided me through a lot of things with my &lt;a href=&quot;https://peterthaleikis.com/posts/startup-name-check:-experiences-of-the-first-week/&quot;&gt;first launch&lt;/a&gt;. Thinking back, I would have struggled much more without some guidance. Thank you Vincent! Makers supporting makers is an important part of the indie maker community. I&#39;ve started giving more back to the maker community. Part of this is my goal to make it easier for new makers to understand the communities and spaces. I&#39;ll kick off by sharing how I consider good interaction on IndieHackers.&lt;/p&gt;
+&lt;h2&gt;Set up a profile and say &amp;quot;Hello World&amp;quot;&lt;/h2&gt;
+&lt;p&gt;As in any community you join, you should get started by setting yourself up. Upload a decent profile picture and put some words on your page. Share what you are interested in or worked on. If you already got a website put the link on your profile too. Don&#39;t forget to link to your Twitter and other profiles. You could be surprised what number of profile clicks you can get.&lt;/p&gt;
+&lt;h2&gt;It’s more important to be kind than clever&lt;/h2&gt;
+&lt;p&gt;We are all just humans and should let kindness rule our interaction with each other. Same goes for IndieHackers (IH). Many people working hard to build something. Make sure to treat everyone with kindness, respect, and a positive attitude. When you share your experiences or feedback make sure to keep in mind that other one might have invested a lot of time and energy into this.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It’s more important to be kind than clever&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Help out&lt;/h2&gt;
+&lt;p&gt;As in any community, helping hands are always welcome. Answer questions and help out with marketing. Most makers are very happy to see tweets featuring their projects 🐦️ Make sure to tag him or her in the tweet — your both will get more exposure.&lt;/p&gt;
+&lt;p&gt;If you read a conversation and have something useful to share, go ahead and jump into the conversation. Everyone is happy with more well-thought feedback and critic.&lt;/p&gt;
+&lt;h2&gt;Find the link for it and share it&lt;/h2&gt;
+&lt;p&gt;You are on the world wide web. People leave links to other blogs or websites to make it easier for others to look for the information they need. For instance, if you just read a useful blog post and think it might help the asker on IH, leave a link to it. The link will take the members directly to the source instead of searching for it on the internet. This increases the popularity of the source as a reference you can trust.&lt;/p&gt;
+&lt;h2&gt;Ask good questions&lt;/h2&gt;
+&lt;p&gt;Your questions should be very specific. Generic questions get generic answers. If you need help with a certain topic or seek feedback, make sure you describe what you already know in detail. For example, if you have already tried several ways to do something, mention it. This will prevent others from sharing the same methods or ideas, and they will share different methods, ideas or strategies with you. Your question will be more relevant and your community engagement is better. Besides this, it will save a lot of time for everyone.&lt;/p&gt;
+&lt;h2&gt;Try to provide value with your posts&lt;/h2&gt;
+&lt;p&gt;Try to always share some insight or learnings. Make sure to keep your posts updated and relevant. Recurring posts which aren&#39;t receiving any attention help no one and feel spammy quickly. It&#39;s simply not enough to just paste the link to your project. You will get much more attention towards your post (and project) by sharing the strategy you implemented and the results you achieved. When responding to a feedback request try the same: provide value. If something looks good to you, you might want to share the reasons why. In the same way, if you think something needs to be improved, share details.&lt;/p&gt;
+&lt;h2&gt;Praise where praise is due.&lt;/h2&gt;
+&lt;p&gt;If you find a link very useful or got questions share it on IndieHackers (or Twitter) and explain why you like it. Don&#39;t forget to tag the author (if on IH). Spend the few extra minutes to find his or her handle. When you tag them, they will get a notification and are likely to check out your post. This is your chance to connect or to get an answer to your question. Their advice will carry much more weight than that of others.&lt;/p&gt;
+&lt;h2&gt;Worry less: No one will steal your idea&lt;/h2&gt;
+&lt;p&gt;Now, this might feel wrong, but it&#39;s more a misconception: You shouldn&#39;t keep your ideas for you alone. If you talk openly about your ideas and ask for input at the same time, you will not only get many more ideas but also valuable feedback in return. Chances are very good someone has considered the project idea or launched something similar — both cases give you great chance to learn.&lt;/p&gt;
+&lt;p&gt;Even if someone decides to &amp;quot;steals&amp;quot; your idea and turns it into a product or service, don&#39;t worry. We all have ideas. If your idea is simple enough for anyone to execute, then you don&#39;t need to talk about the idea in the first place. You should just go ahead and do it. Execution is key. Many people go as far as saying &lt;em&gt;&amp;quot;Ideas are nothing, execute is all.&amp;quot;&lt;/em&gt;. There is no need for an NDA for indie projects.&lt;/p&gt;
+&lt;p&gt;Speaking about ideas, I&#39;ve actually shared a number of &lt;a href=&quot;https://peterthaleikis.com/posts/side-project-ideas-up-for-grabs/&quot;&gt;side-project ideas for free&lt;/a&gt; &amp;amp;mdash just in case you are interested. These ideas are either my own or openly shared by others. I&#39;ve written the ideas down in the secret hope someone else builds them, so I can just use the products/services instead of building them myself.&lt;/p&gt;
+&lt;h2&gt;Celebrate little wins&lt;/h2&gt;
+&lt;p&gt;Got your first subscriber on YouTube or your first retweet? Celebrate the moment with others and share it on IndieHackers. Same goes even more if you can share some great trick or hack with it — people love to learn how you did it.&lt;/p&gt;
+&lt;h2&gt;Try the search feature&lt;/h2&gt;
+&lt;p&gt;On the Internet, the same question is often asked multiple times. We know repetition can cost you lot of time. Therefore, make sure to use the search before posting. You may not want to use the site search only. Google can answer most of your questions. A few minutes on Google (or DuckDuckGo) can answer most questions.&lt;/p&gt;
+&lt;h2&gt;Don&#39;t forget to upvote!&lt;/h2&gt;
+&lt;p&gt;Even if you don&#39;t know the answer to a question you come across on IH, do hit upvote. This can help make sure the question gets the attention of other members who may answer have useful answers.&lt;/p&gt;
+&lt;h2&gt;New to the indie hacker space?&lt;/h2&gt;
+&lt;p&gt;It&#39;s great to see new faces showing up and working on figuring our their path to success. If that&#39;s you, you might be interested in my &lt;a href=&quot;https://peterthaleikis.com/business-idea-validation&quot;&gt;deep dive into business idea validation&lt;/a&gt;. Please let me know if you got any questions.&lt;/p&gt;
+&lt;h2&gt;Disclaimer&lt;/h2&gt;
+&lt;p&gt;I&#39;ve got no affiliation with IndieHackers, besides &lt;a href=&quot;https://www.indiehackers.com/spekulatius/&quot;&gt;my regular user account&lt;/a&gt; and the listed product of my projects.&lt;/p&gt;
+</content>
+  </entry>
+
+  <entry>
+    <title>Project #4: SEO Tool Extension</title>
+    <link href="https://peterthaleikis.com/posts/project-4:-seo-tool-extension/"/>
+    <updated>2019-06-20T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/project-4:-seo-tool-extension/</id>
+    <content type="html">&lt;p&gt;As part of my journey to become permanently independent from employment and contracting, I need to learn marketing for &lt;a href=&quot;https://peterthaleikis.com/tags/side-projects/&quot;&gt;my side projects&lt;/a&gt;. I think that&#39;s inevitable. Not too long ago, I&#39;ve read &amp;quot;a project is 20% building and 80% marketing&amp;quot; somewhere. As it turns out that is very true. SEO and marketing were the top topics for me and &lt;a href=&quot;https://takemeaway.life/category/english/&quot; target=&quot;_blank&quot;&gt;Treesukondh&lt;/a&gt; in the last months.&lt;/p&gt;
+&lt;p&gt;I&#39;m still considering myself a newbie and soaking up information on all corners. Routinely, this includes checking (my) websites to see what others are doing, making tweaks, waiting and checking again, etc. Many monotonous steps — often on autopilot. We all have these regular clicks and keyboard actions, we are doing too often. Depending on your job or interests, these steps can sum up over a regular day. One of mine is, to copy URLs of websites into SEO-related tools. These can be my websites as well as websites from others. As this got annoying, I&#39;ve decided to take a break and built a browser extension to make this easier.&lt;/p&gt;
+&lt;h2&gt;Built on a Sunday morning&lt;/h2&gt;
+&lt;p&gt;As with &lt;a href=&quot;https://randomelon.peterthaleikis.com/&quot; target=&quot;_blank&quot;&gt;RandomElon&lt;/a&gt;, projects don&#39;t need a long prep-phase or even a proper plan. This is especially true if you don&#39;t intent to make any money from it. Often the small things, built for yourself are more neat than big planned projects. Let&#39;s see if anyone finds it as useful as me and wants to have it 🤔️&lt;/p&gt;
+&lt;p&gt;Now you can access deep links into the several SEO-related searches and services directly, with one click 😊️&lt;/p&gt;
+&lt;p&gt;&lt;img title=&quot;SEO Tool Extension Preview&quot; src=&quot;https://peterthaleikis.com/static/images/Project-4-SEO-Tool-Extension/preview-of-the-seo-tool-extension-min.png&quot; style=&quot;max-width: 250px;&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Currently support tools:&lt;/h2&gt;
+&lt;p&gt;The following tools and services are supported at the moment:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Backlinks can be analysed using Ahref, Majestic, MOZ and SemRush.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Content can be checked using Siteliner, SimilarWeb, BuzzSumo and UberSuggest.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For general tests PageSpeed by Google, SecurityHeaders.io as well as Google&#39;s &#39;Structured Data&#39; and &#39;Mobile Friendly&#39; Tools are supported.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deeplinks into the Google Index, Google Cache as well as to Archive.org for the Host and URL are available.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you think an important tool is missing please get in touch 🙏️&lt;/p&gt;
+&lt;h2&gt;What did you build it with?&lt;/h2&gt;
+&lt;p&gt;The extension itself was built with&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;HTML, CSS and JavaScript (all Vanilla). The whole browser extension is fairly small and doesn&#39;t require any framework or library.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Laravel Mix as inexhaustible helper to bundle everything together 🤖️&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The website for the SEO Tool extension was built using&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://peterthaleikis.com/tags/pugjs/&quot;&gt;Pug&lt;/a&gt; for the generation of the HTML. This could have been kept out, but I&#39;ve opted to keep it consistent with the &lt;a href=&quot;https://whichlogin.com/&quot;&gt;WhichLogin.com&lt;/a&gt; website stack. This comes also from knowing myself:  Often I&#39;m adding more content pages in later on (Help, Contact, etc.).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vanilla CSS to layout the website and make the buttons brown 😁️ If you wonder why the buttons are brown, keep on reading.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;No JavaScript yet — but if any JavaScript will be added most like it would be VanillaJS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;No blockchain, crypto magic or special sauce. Just some bytes in a halfway decent order.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Why is the website brown?&lt;/h2&gt;
+&lt;p&gt;As you can see, I&#39;m not a designer. My design skills end at using the color wheel and some other tools. Royalty free images and illustrations are a blessing for me. For the SEO Tool extension I have found a toolkit icon on Pixabay I liked. So I decided to go with a rather uncommon color: brown 💩️&lt;/p&gt;
+&lt;h2&gt;Thanks 🙏️&lt;/h2&gt;
+&lt;p&gt;Special thanks for &lt;a href=&quot;https://takemeaway.life/category/english/&quot; target=&quot;_blank&quot;&gt;Treesukondh&lt;/a&gt;, who prepare advised me building it and prepared the graphics for the ProductHunt launch, etc.&lt;/p&gt;
+&lt;p&gt;Thank you also to &lt;a href=&quot;https://pixabay.com/users/BedexpStock-6161331/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Bedexp Stock&lt;/a&gt; on Pixabay, for providing the icon for the SEO Tool extension.&lt;/p&gt;
+&lt;h2&gt;Update&lt;/h2&gt;
+&lt;p&gt;The project has been sold 🤑️ and heavily reworked. It is much more powerful now. But the Firefox support has also been dropped along the way. The old extension is still up on the Firefox addons store, but the updates probably won&#39;t come to to the fox 🦊️ Here are more &lt;a href=&quot;https://browserextension.dev/seo-chrome-extensions/&quot;&gt;⌨️ SEO browser extensions&lt;/a&gt; for your convenience.&lt;/p&gt;
+</content>
+  </entry>
+
+  <entry>
+    <title>Neat Indie Projects No. 1</title>
+    <link href="https://peterthaleikis.com/posts/neat-indie-projects-no.-1/"/>
+    <updated>2019-06-23T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/neat-indie-projects-no.-1/</id>
+    <content type="html">&lt;h2&gt;Intro&lt;/h2&gt;
+&lt;p&gt;As an indie maker, I suffer from the same issue as many other makers: I can&#39;t do marketing. I struggle to market &lt;a href=&quot;https://peterthaleikis.com/tags/side-projects/&quot;&gt;my side-projects&lt;/a&gt; and earn money on my indie work. I see and hear this in many conversations in the indiehacker space. To help a little, I want to talk a bit about some neat indie projects I&#39;ve discovered recently. Here we go:&lt;/p&gt;
+&lt;h3&gt;“Time Well Spent“ — see pricing as working hours.&lt;/h3&gt;
+&lt;p&gt;See prices not in $, see them displayed in the hours. Working hours needed, to earn this amount. Works on many major websites, such as Amazon &amp;amp; eBay. Available as Chrome extension only atm. Check the &lt;a href=&quot;https://chrome.google.com/webstore/detail/time-well-spent-%E2%80%94-see-pri/fagkeimkebmhbeelogmpfpcfdiamhpoa&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Chrome extension &#39;Time Well Spent&#39;&lt;/a&gt; by Greg Greiner.&lt;/p&gt;
+&lt;h3&gt;“AskBlocker“ — Stop permission requests in your browser&lt;/h3&gt;
+&lt;p&gt;Too many websites request permissions such as for push notification by default. I&#39;m by far no fan of this practice and found &lt;a href=&quot;https://chrome.google.com/webstore/detail/askblocker/eelfgnmggfgncoipinopobfcabnfknho&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;AskBlocker&lt;/a&gt; (&lt;a href=&quot;https://addons.mozilla.org/en-GB/firefox/addon/askblocker/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; title=&quot;AskBlocker for Firefox&quot;&gt;Firefox&lt;/a&gt;) as a solution. It&#39;s a simple browser extension blocking requests and allowing you management requests (by allowing and reloading). The extension was built by &lt;a href=&quot;https://adamlynch.com/?ref=PeterThaleikis.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Adam Lynch&lt;/a&gt; and is available as an &lt;a href=&quot;https://github.com/adam-lynch/askblocker&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;open source library&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;“CostMe“ — How Much Payment Providers Actually Cost You?&lt;/h3&gt;
+&lt;p&gt;Are you regretting your initial choice of a payment provider for your SaaS or side-project and want to see what the options are? Or do you plan to start a new project using direct payments as a way of monetization? Check &lt;a href=&quot;https://fauz.io/?ref=PeterThaleikis.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Fauzi Abdillah&lt;/a&gt; project to &lt;a href=&quot;https://costme.fauz.io/?ref=PeterThaleikis.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;compare payment provider costs&lt;/a&gt;!&lt;/p&gt;
+&lt;h3&gt;“FullHelp“ — self-hosted help-desk and knowledge-base software&lt;/h3&gt;
+&lt;p&gt;Does your side-project, SaaS, or community require a comprehensive help section? &lt;a href=&quot;https://fullhelp.com/?ref=PeterThaleikis.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;FullHelp&lt;/a&gt; by &lt;a href=&quot;https://www.producthunt.com/@gerardojbaez&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Gerardo J. Báez&lt;/a&gt; allows you to self-host a help-desk and linked knowledge base application. Allowing you and your team to time to focus on what&#39;s important and not handling Login questions every day. The license fee includes updates and enhancements for one year and can be renewed at a discounted price.&lt;/p&gt;
+&lt;h3&gt;“RecordScreen“ — Record your screen right from the browser.&lt;/h3&gt;
+&lt;p&gt;A simple online-tool to &lt;a href=&quot;https://recordscreen.io/?ref=PeterThaleikis.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;take screencasts in your browser&lt;/a&gt;, no installation required at all. Just click &amp;quot;Record&amp;quot;, then &amp;quot;Start Recording&amp;quot; and grant the permission. That&#39;s all you need. You can also record your screen and webcam at the same time to produce explainer or review videos. By &lt;a href=&quot;https://asadmemon.com/?ref=PeterThaleikis.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Asad Memon&lt;/a&gt; and &lt;a href=&quot;https://munirusman.com/?ref=PeterThaleikis.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Munir Usman&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;“Enso OS“ — an alternative to Elementary OS&lt;/h3&gt;
+&lt;p&gt;I&#39;m a big fan of Linux. Using it since before 2k when everything was ugly and many things didn&#39;t work 😂️ Luckily, these days are past. More great Linux distributions are released now than before. &lt;a href=&quot;https://enso-os.site/?ref=PeterThaleikis.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Enso OS&lt;/a&gt; is one of these.&lt;/p&gt;
+&lt;p&gt;Some tech stuff, if you&#39;re interested in this: Enso OS is a custom build on top of Ubuntu 16.04 (LTS - Xenial). It uses Xfce as a desktop manager. Besides this, Enso also has integrated the Gala window manager (from the elementary project) as well as the Panther Launcher (a Slingshot-fork). The &#39;simplest dock on the planet&#39; Plank comes into action as well.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Nick_Wilkins&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Nick Wilkins&lt;/a&gt; has also open-sourced the project. It&#39;s waiting for more contributions &amp;amp; bug reports at the moment. The source code is hosted on &lt;a href=&quot;https://github.com/nick92/Enso-OS&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;GitHub&lt;/a&gt;, if you&#39;d like to check it out. Please consider supporting the project with &lt;a href=&quot;https://twitter.com/intent/tweet?text=I%27ve%20just%20found%20this%20neat%20Linux%20distro%3A%20enso-os.site%20by%20@Nick_Wilkins&amp;via=spekulatius1984&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;a Tweet&lt;/a&gt; or downloading &amp;amp; trying it out 🙏️&lt;/p&gt;
+&lt;h3&gt;“Pushfolio“ — create pop-ups messages with just a few lines of JavaScript&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.pushfol.io/?ref=PeterThaleikis.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Pushfolio&lt;/a&gt; is a solution for those who don&#39;t want a complex tool like Intercom. If you just want to display some decent pop-ups to convert people, this is what you should look at.&lt;/p&gt;
+&lt;p&gt;It&#39;s basically a JavaScript library you can include on your website. It allows you to define and trigger popups using code. The aim to convert more visitors to users. In the basic version, it&#39;s free and one-time pay $9 plan is supporting the maker &lt;a href=&quot;http://www.dannypostma.com/?ref=PeterThaleikis.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Danny Postma&lt;/a&gt; through the darkness of the night 😀️&lt;/p&gt;
+&lt;h2&gt;Update (07/07/2019): Later editions&lt;/h2&gt;
+&lt;p&gt;The series developed a little and here are some more lists of similar nature: &lt;a href=&quot;https://peterthaleikis.com/posts/neat-indie-projects-no.-2/&quot; title=&quot;Second list of neat indie side-projects, open-source projects and businesses&quot;&gt;second list of side projects&lt;/a&gt; and &lt;a href=&quot;https://peterthaleikis.com/posts/neat-indie-projects-no.-3/&quot; title=&quot;Third listing of neat independent side-projects and open source libraries&quot;&gt;third list of side projects&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Final thoughts&lt;/h2&gt;
+&lt;p&gt;If you liked any of these projects share and talk about them please 🙏️ As far as I can see, the indie-hackers behind these projects could use some more publicity for their work. Every little tweet helps. If you want to support all, you can also share this list on &lt;a href=&quot;https://twitter.com/intent/tweet?text=Neat%20Indie%20Projects%20No.%201%0A%0Ahttps%3A%2F%2Fpeterthaleikis.com%2Fposts%2Fneat-indie-projects-no.-1%2F&amp;via=spekulatius1984&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https://peterthaleikis.com/posts/neat-indie-projects-no.-1/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Cover photo by &lt;a href=&quot;https://www.ashwinvaswani.com/?ref=PeterThaleikis.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Ashwin Vaswani&lt;/a&gt; via Unsplash. Thank you for sharing great images!&lt;/p&gt;
+</content>
+  </entry>
+
+  <entry>
+    <title>How to Insert Jump Anchors on Headings with PugJS</title>
+    <link href="https://peterthaleikis.com/posts/how-to-insert-jump-anchors-on-headings-with-pugjs/"/>
+    <updated>2019-06-25T00:00:00Z</updated>
+    <id>https://peterthaleikis.com/posts/how-to-insert-jump-anchors-on-headings-with-pugjs/</id>
+    <content type="html">&lt;p&gt;I&#39;m definitely a fan of cats 😺️ in real life, but when it comes to code this reverses and I&#39;ve got a preference for Pug 🐶️ For those who aren&#39;t coders: PugJS is a JavaScript template engine. It converts Pug-lang into HTML. I know there is more power in PugJS, besides the simple turning the Pug-lang into HTML. At the moment I&#39;m not using the potential of the language - I use PugJS mostly to hold my content. Let&#39;s look at some ways to get more out of Pug I&#39;ve learned about recently.&lt;/p&gt;
+&lt;p&gt;If you are using Pug on your static-site you can:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Use variables to set content and attributes across your site or application.&lt;/li&gt;
+  &lt;li&gt;Declare Mixins to define HTML tags, attributes, and more. More about this later.&lt;/li&gt;
+  &lt;li&gt;Freely componentize your project files using inheritance and includes. This allows you to build up a project structure you like. I like to keep the same structure as the related SCSS files - just avoiding unneeded complexity in the project.&lt;/li&gt;
+  &lt;li&gt;You can have conditional content &lt;i&gt;without&lt;/i&gt; client-side JavaScript. A simple example could be:
+&lt;pre&gt;&lt;code class=&quot;language-Pug&quot;&gt;- var promo_is_live = false;
+
+if promo_is_live
+    h2 Special deal!
+    p Get our super special promotional offer!
+    p.price Only $9.99
+else
+    p.price Only $19.99
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This content will be dynamically-included on each compile of the HTML output, depending on the variable &lt;code&gt;promo_is_live&lt;/code&gt;. If you switch the flag to false, any related content won&#39;t be included in the output at all.&lt;/p&gt;
+&lt;p&gt;This keeps your site clean and tidy, avoids exposure of time-sensitive information (such as the annual Christmas promotion) and at the same time avoids the need to manually add and remove code for promotions and temporary content every time. Avoiding hidden content can be useful if you’re aiming to optimize your site for search engines as well.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pug is a powerful template engine and a read over the &lt;a href=&quot;https://pugjs.org/language/attributes.html&quot;&gt;language reference&lt;/a&gt; is good for some &lt;em&gt;&amp;quot;Ahhh, neat&amp;quot;&lt;/em&gt;-moments! Below, you will find a useful mixin-example applicable for daily coding.&lt;/p&gt;
+&lt;h2&gt;An example: Adding dynamic anchors to headings using Pug-Mixins&lt;/h2&gt;
+&lt;p&gt;Often you might want an &lt;code&gt;id&lt;/code&gt; to allow you to jump directly to a certain part of the document. For me, these are usually headings. The heading above &lt;em&gt;&amp;quot;An example: Adding dynamic anchors to headings using Pug&amp;quot;&lt;/em&gt;, I would write&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-Pug&quot;&gt;h2(id=&amp;quot;an-example-adding-dynamic-anchors-to-headings-using-Pug&amp;quot;).
+    An example: Adding dynamic anchors to headings using Pug
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This triggers me, as it&#39;s error-prone, overhead to read as developer and overhead to maintain. Wouldn&#39;t it be nicer if you could avoid the double content and could instead generate the slug out of the heading on the fly? With Pug you can:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-Pug&quot;&gt;mixin h2(headline)
+  - let id = headline.toLowerCase().replaceAll(&#39; &#39;, &#39;-&#39;).replace(/[!\&amp;quot;#$%&amp;amp;&#39;\(\)\*\+,\.\/:;&amp;lt;=&amp;gt;\?\@\[\\\]\^`\{\|\}~]/g, &#39;&#39;);
+  h2(id= id)
+    = headline
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;With this little helper Pug-mixin you can just write&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-Pug&quot;&gt;+h2(&#39;An example: Adding dynamic anchors to headings using Pug&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;and it will be processed to&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-HTML&quot;&gt;&amp;lt;h2 id=&amp;quot;an-example-adding-dynamic-anchors-to-headings-using-Pug&amp;quot;&amp;gt;
+  An example: Adding dynamic anchors to headings using Pug
+&amp;lt;/h2&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Isn&#39;t this a much better developer-experience? :)&lt;/p&gt;
+&lt;h2&gt;Taking it one step further&lt;/h2&gt;
+&lt;p&gt;You can also make the heading level a parameter handed over to the mixin.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-Pug&quot;&gt;mixin h(level, headline)
+  - let id = headline.toLowerCase().replace(&#39; &#39;, &#39;-&#39;).replace(/[!\&amp;quot;#$%&amp;amp;&#39;\(\)\*\+,\.\/:;&amp;lt;=&amp;gt;\?\@\[\\\]\^`\{\|\}~]/g, &#39;&#39;);
+  section(id= id)
+    #{&#39;h&#39; + level}= headline
+    if block
+      block
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Allows you to write the following Pug-code&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-Pug&quot;&gt;+h(2, &#39;Section A&#39;)
+
++h(2, &#39;Section B&#39;)
+  p Lorem ipsum dolor amit
+
++h(2, &#39;Section C&#39;)
+  p Lorem ipsum dolor amit
+  +h(3, &#39;Section C, Subsection A&#39;)
+    p Lorem ipsum dolor amit
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;will be compiled to the HTML shown below&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-HTML&quot;&gt;&amp;lt;section id=&amp;quot;section-a&amp;quot;&amp;gt;
+  &amp;lt;h2&amp;gt;Section A&amp;lt;/h2&amp;gt;
+&amp;lt;/section&amp;gt;
+
+&amp;lt;section id=&amp;quot;section-b&amp;quot;&amp;gt;
+  &amp;lt;h2&amp;gt;Section B&amp;lt;/h2&amp;gt;
+  &amp;lt;p&amp;gt;Lorem ipsum dolor amit&amp;lt;/p&amp;gt;
+&amp;lt;/section&amp;gt;
+
+&amp;lt;section id=&amp;quot;section-c&amp;quot;&amp;gt;
+  &amp;lt;h2&amp;gt;Section C&amp;lt;/h2&amp;gt;
+  &amp;lt;p&amp;gt;Lorem ipsum dolor amit&amp;lt;/p&amp;gt;
+  &amp;lt;section id=&amp;quot;section-c-subsection-a&amp;quot;&amp;gt;
+    &amp;lt;h3&amp;gt;Section C, Subsection A&amp;lt;/h3&amp;gt;
+    &amp;lt;p&amp;gt;Lorem ipsum dolor amit&amp;lt;/p&amp;gt;
+  &amp;lt;/section&amp;gt;
+&amp;lt;/section&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This allows you to define any level of heading dynamically, on the fly.&lt;/p&gt;
+&lt;h2&gt;Summary and Source&lt;/h2&gt;
+&lt;p&gt;As mentioned above, the language can do more. Mixins are only one powerful side of PugJS. Have a look at the language reference for more information. By the way, if you are a fan of Netlify too I have good news for you. Of course, you can use &lt;a href=&quot;https://peterthaleikis.com/posts/how-to-use-pug-on-netlify/&quot;&gt;Pug with your Netlify-hosted website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Praise where praise is due: Thanks to the Pug maintainers for their great work. I have to say &amp;quot;Thank you&amp;quot; to Sean who pointed me to the possibilities &lt;a href=&quot;https://stackoverflow.com/questions/56538582/is-it-possible-to-generate-anchor-for-each-heading-in-Pug/56565423#56565423&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;answering my question on Stackoverflow&lt;/a&gt; as well.&lt;/p&gt;
+</content>
+  </entry>
+</feed>
